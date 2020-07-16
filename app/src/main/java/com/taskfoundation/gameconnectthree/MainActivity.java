@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
                     String winner = "";
 
                     if (activePlayer == 1) {
-                        winner = "Yellow";
+                        winner = "Blue";
                     } else {
                         winner = "Red";
                     }
